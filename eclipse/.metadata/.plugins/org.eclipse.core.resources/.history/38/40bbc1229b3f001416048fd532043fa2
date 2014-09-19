@@ -1,0 +1,9 @@
+package com.goudawgs.stagelights;
+
+import cpw.mods.fml.common.Mod;
+
+@Mod(modid="StageLights", name="Stage Lights", version="1.7.10")
+public class StageLights 
+{
+
+}
